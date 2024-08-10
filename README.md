@@ -37,7 +37,7 @@ __ Getting Started __
 - Download the Project Files: Clone the repository to your local machine using:
 bash
 Copy code
-git clone https://github.com/yourusername/hr-data-analysis-dashboard.git
+git clone https://github.com/SATAN07/hr-data-analysis-dashboard.git
 - Open in Tableau: Launch Tableau and open the HR DATA ANALYSIS.twb file to explore the dashboard.
 Usage
 - Interactive Exploration: Use Tableau's interactive features to filter, sort, and drill down into the HR data.
